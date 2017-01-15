@@ -1,0 +1,12 @@
+{
+  "name": "Cordova Framework7 Template",
+  "version": "1.0.0",
+  "description": "A Framework7 template for Cordova",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "license": "MIT License"
+}
