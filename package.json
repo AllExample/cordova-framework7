@@ -1,0 +1,20 @@
+{
+  "name": "cordova-framework7",
+  "version": "1.0.0",
+  "description": "A Framework7 template for Cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TweetJMorales/cordova-framework7.git"
+  },
+  "homepage": "https://github.com/TweetJMorales/cordova-framework7",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Jonathan Morales",
+  "license": "MIT License"
+}
