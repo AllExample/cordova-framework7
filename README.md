@@ -1,2 +1,6 @@
 # cordova-framework7
-A Framework7 template for Cordova
+
+
+How to use it
+-
+`cordova create appname --template cordova-framework7`
